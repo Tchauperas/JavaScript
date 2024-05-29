@@ -1,0 +1,10 @@
+var num1 = prompt('Digite um numero:')
+var num2 = prompt('Digite outro numero:')
+
+document.write('A soma entre '+ num1 +' e '+ num2 +' é: ' + (parseInt(num1) + parseInt(num2))+ '<br>')
+document.write('A diferença entre '+ num1 +' e '+ num2 +' é: ' + (num1 - num2)+ '<br>')
+document.write('O produto entre '+ num1 +' e '+ num2 +' é: '+ (num1 * num2)+ '<br>')
+document.write('O quociente entre '+ num1 +' e '+ num2 +' é :'+ (num1 / num2)+ '<br>' )
+document.write('O módulo entre '+ num1 +' e '+ num2 +' é :'+ (num1 % num2)+ '<br>' )
+document.write('O incremento de '+ num1 +' é: '+ (num1++)+ '<br>')
+document.write('O decremento de '+ num1 +' é: '+ (--num1)+ '<br>')

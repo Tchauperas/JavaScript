@@ -1,0 +1,7 @@
+Operadores lógicos:
+    Oque são?
+        Conectam operações de comparação. 
+    Operadores:
+        E(&&): Verdadeiro se todas as expressões forem verdaeiras.
+        OU(||): Verdadeiro se pelo menos uma das expressões for verdadeira.
+        Negação(!): Inverte o resutado da expressão de comparação. 
